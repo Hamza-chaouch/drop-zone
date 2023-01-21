@@ -1,7 +1,7 @@
 {
-  "name": "@chcodes/drop-zone-element",
+  "name": "@Hamza-chaouch/drop-zone",
   "version": "1.0.0",
-  "description": "",
+  "description": "it 's a custom element that enables drop zone to manage file. reusable web component.",
   "main": "dist/drop-zone-element.js",
   "module": "dist/drop-zone-element.js",
   "scripts": {
@@ -12,6 +12,10 @@
   "files": [
     "/dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hamza-chaouch/drop-zone.git"
+  },
   "keywords": [],
   "author": "CHAOUCH Hamza <contact@ch-codes.com",
   "license": "MIT",
@@ -23,5 +27,8 @@
     "rollup-plugin-postcss": "^4.0.2",
     "rollup-plugin-typescript2": "^0.25.3",
     "typescript": "^3.7.3"
+  },
+  "publishConfig": {
+     "registry": "https://npm.pkg.github.com/Hamza-chaouch"
   }
 }
