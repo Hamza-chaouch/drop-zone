@@ -1,6 +1,6 @@
 {
   "name": "@chcodes-hamza/drop-zone",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "it 's a custom element that enables drop zone to manage file. reusable web component.",
   "main": "dist/drop-zone-element.js",
   "module": "dist/drop-zone-element.js",
