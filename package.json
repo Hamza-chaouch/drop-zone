@@ -1,5 +1,5 @@
 {
-  "name": "@Hamza-chaouch/drop-zone",
+  "name": "@chcodes-hamza/drop-zone",
   "version": "1.0.1",
   "description": "it 's a custom element that enables drop zone to manage file. reusable web component.",
   "main": "dist/drop-zone-element.js",
@@ -27,8 +27,6 @@
     "rollup-plugin-postcss": "^4.0.2",
     "rollup-plugin-typescript2": "^0.25.3",
     "typescript": "^3.7.3"
-  },
-  "publishConfig": {
-     "registry": "https://npm.pkg.github.com/Hamza-chaouch"
   }
+ 
 }
