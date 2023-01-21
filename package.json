@@ -1,0 +1,27 @@
+{
+  "name": "@chcodes/drop-zone-element",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/drop-zone-element.js",
+  "module": "dist/drop-zone-element.js",
+  "scripts": {
+    "dev": "rollup -c rollup.config.js --watch",
+    "build": "rollup -c rollup.config.js",
+    "prepublishOnly": "rm -rf dist && npm run build"
+  },
+  "files": [
+    "/dist"
+  ],
+  "keywords": [],
+  "author": "CHAOUCH Hamza <contact@ch-codes.com",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^1.27.13",
+    "rollup-plugin-dev": "^1.1.1",
+    "rollup-plugin-inline-svg": "^1.1.1",
+    "rollup-plugin-livereload": "^1.0.4",
+    "rollup-plugin-postcss": "^4.0.2",
+    "rollup-plugin-typescript2": "^0.25.3",
+    "typescript": "^3.7.3"
+  }
+}
