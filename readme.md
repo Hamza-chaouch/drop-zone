@@ -5,6 +5,8 @@
 it 's a custom element that enables drop zone to manage file.
 A reusable web component.
 
+![](preview.PNG)
+
 ## Usage 
 
 ### With npm
