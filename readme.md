@@ -21,7 +21,7 @@ yarn add @chcodes-hamza/drop-zone
 Then import it in your script
 
 ```js
-import '@grafikart/drop-zone'
+import '@chcodes-hamza/drop-zone'
 ```
 
 ### With unpkg.com
